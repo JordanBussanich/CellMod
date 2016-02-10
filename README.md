@@ -27,6 +27,6 @@ Pull requests are accepted for bug fixes and improvements.  However, they must f
 
 Credits
 ==============
-[Instipod](https://www.google.com), for the original version of this plugin.
+[Instipod](https://github.com/instipod/CellMod), for the original version of this plugin.
 
 New code Copyright 2016, Jordan Bussanich.
